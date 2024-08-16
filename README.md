@@ -1,1 +1,1 @@
-Welcome to my GitHub page! My name is Claudia Carroll and I am a graduate student in English at the University of Notre Dame. I am currently self-teaching Python and developing a text analysis pipeline to analyse language used to describe characters in nineteenth century novels.
+Welcome to my GitHub page! My name is Claudia Carroll and I am a postdoctoral research associate at Wash U's Transdisciplinary Institute in Applied Data Science. 
